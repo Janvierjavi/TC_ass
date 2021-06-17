@@ -110,3 +110,10 @@ body{
     border: none;
     cursor: pointer;
 }
+
+/* pagination  */
+
+.pag{
+    position: absolute;
+    left: 42%;
+}
